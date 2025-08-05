@@ -78,7 +78,3 @@ airflow dags trigger retrain_model_daily
 
 
 
-## 📫 Author
-
-**Zane Baker**  
-Feel free to connect or contribute via GitHub.
