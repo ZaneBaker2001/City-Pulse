@@ -4,7 +4,7 @@ CityPulse is a full-stack data science project that predicts PM2.5 pollution lev
 
 ---
 
-## 📁 Project Structure & Descriptions
+##  Project Structure & Descriptions
 
 ```
 citypulse_project/
@@ -35,21 +35,21 @@ citypulse_project/
 
 ## 🚀 Features
 
-- ✅ **Live Weather Ingestion** via OpenWeatherMap API
-- 🧹 **Data Cleaning**: Robust handling of nulls and invalid readings
-- 🏗️ **Feature Engineering**: Rolling averages, time-based features
-- 🗺️ **Geospatial Analysis**: Add regional context using shapefiles
-- 📈 **Modeling**:
+-  **Live Weather Ingestion** via OpenWeatherMap API
+-  **Data Cleaning**: Robust handling of nulls and invalid readings
+-  **Feature Engineering**: Rolling averages, time-based features
+-  **Geospatial Analysis**: Add regional context using shapefiles
+-  **Modeling**:
   - Random Forest Regressor for pollution prediction
   - Prophet for time-series forecasting
-- 🖥️ **Dashboard**: Streamlit UI with maps (Folium) and user inputs
-- ⚙️ **Automation**: Airflow DAG for daily model retraining
-- 🔄 **CI/CD**: GitHub Actions to test code on each commit
-- 🐳 **Deployment**: Containerized via Docker
+-  **Dashboard**: Streamlit UI with maps (Folium) and user inputs
+-  **Automation**: Airflow DAG for daily model retraining
+-  **CI/CD**: GitHub Actions to test code on each commit
+-  **Deployment**: Containerized via Docker
 
 ---
 
-## 🧪 Quickstart
+##  Quickstart
 
 ### 1. Install Dependencies
 
