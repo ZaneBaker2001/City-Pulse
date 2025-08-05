@@ -76,21 +76,7 @@ pytest tests/
 airflow dags trigger retrain_model_daily
 ```
 
----
 
-## 🔒 Security Note
-
-- Keep your OpenWeatherMap `API_KEY` private (not hardcoded in version control).
-
----
-
-## 🌍 Future Improvements
-
-- Integrate satellite data (NASA, Copernicus)
-- Deploy dashboard online (Streamlit Cloud, AWS, or GCP)
-- Add SMS/email alerts for high pollution levels
-
----
 
 ## 📫 Author
 
