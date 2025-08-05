@@ -33,7 +33,7 @@ citypulse_project/
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  **Live Weather Ingestion** via OpenWeatherMap API
 -  **Data Cleaning**: Robust handling of nulls and invalid readings
