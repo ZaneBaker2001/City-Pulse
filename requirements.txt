@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+scikit-learn
+joblib
+streamlit
+folium
+geopandas
+prophet
+pytest
+streamlit-folium
+matplotlib
+seaborn
