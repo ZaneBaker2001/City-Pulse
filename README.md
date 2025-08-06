@@ -60,13 +60,7 @@ pip install -r requirements.txt
 streamlit run src/dashboard/app.py
 ```
 
-### 3. Run Unit Tests
-
-```bash
-pytest tests/
-```
-
-### 4. Run Airflow DAG (example)
+### 3. Run Airflow DAG (example)
 
 ```bash
 # Navigate to Airflow folder and use Airflow CLI
