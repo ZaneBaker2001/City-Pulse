@@ -7,7 +7,7 @@ CityPulse is a full-stack data science project that predicts PM2.5 pollution lev
 ##  Project Structure & Descriptions
 
 ```
-citypulse_project/
+air-quality-forecaster/
 ├── airflow/
 │   └── dags/
 │       └── retrain_model_dag.py           # Airflow DAG for daily model retraining
