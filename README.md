@@ -1,6 +1,6 @@
 # CityPulse: Urban Air Quality Forecast
 
-CityPulse is a full-stack data science project that predicts PM2.5 pollution levels in urban environments using weather, traffic, and geospatial data. It features machine learning models, time-series forecasting, a web dashboard, automated retraining, and continuous integration.
+CityPulse is a full-stack data science project that predicts PM2.5 pollution levels in urban environments using weather, traffic, and geospatial data. It features machine learning models, time-series forecasting, a web dashboard, and automated retraining.
 
 ---
 
