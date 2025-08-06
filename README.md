@@ -41,7 +41,6 @@ citypulse_project/
   - Prophet for time-series forecasting
 -  **Dashboard**: Streamlit UI with maps (Folium) and user inputs
 -  **Automation**: Airflow DAG for daily model retraining
--  **CI/CD**: GitHub Actions to test code on each commit
 -  **Deployment**: Containerized via Docker
 
 ---
