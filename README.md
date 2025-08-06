@@ -36,9 +36,7 @@ air-quality-forecaster/
 -  **Data Cleaning**: Robust handling of nulls and invalid readings
 -  **Feature Engineering**: Rolling averages, time-based features
 -  **Geospatial Analysis**: Add regional context using shapefiles
--  **Modeling**:
-  - Random Forest Regressor for pollution prediction
-  - Prophet for time-series forecasting
+-  **Modeling**: Random Forest Regressor for pollution prediction, prophet for time-series forecasting
 -  **Dashboard**: Streamlit UI with maps (Folium) and user inputs
 -  **Automation**: Airflow DAG for daily model retraining
 -  **Deployment**: Containerized via Docker
