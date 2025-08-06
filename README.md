@@ -8,7 +8,6 @@ CityPulse is a full-stack data science project that predicts PM2.5 pollution lev
 
 ```
 citypulse_project/
-├── .github/workflows/ci.yml               # GitHub Actions workflow for CI pipeline
 ├── airflow/
 │   └── dags/
 │       └── retrain_model_dag.py           # Airflow DAG for daily model retraining
@@ -24,8 +23,6 @@ citypulse_project/
 │   │   └── forecast_pm25.py              # Time-series forecasting using Prophet
 │   └── dashboard/
 │       └── app.py                         # Streamlit dashboard for prediction and map visualization
-├── tests/
-│   └── test_cleaning.py                   # Unit tests for the data cleaning pipeline
 ├── Dockerfile                             # Docker container config for deployment
 ├── requirements.txt                       # Python package dependencies
 └── README.md                              # Project documentation (this file)
